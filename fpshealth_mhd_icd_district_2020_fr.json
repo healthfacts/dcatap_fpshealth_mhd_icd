@@ -1,0 +1,27 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "75cb1524-3d00-83b6-ee88-568a4cb18e29",
+    "title": "Prevalence of medical diagnoses in a hospital: the number of hospital stays per ICD (International Classification of diseases) diagnosis in Belgian districts (2020) (version française)",
+    "description": "This data provides more information about the diseases for which patients are admitted to hospital. The patients are classified based on the ICD (originally version 9, now version 10). ICD is an international classification system that allows the coding of clinical diagnoses. This is a classification primarily intended for the coding and registration of clinical diagnoses within a hospital setting. The number of hospital stays is shown per ICD code, which was registered as the main diagnosis for a hospital stay.",
+    "publisher": "Federal Public Service Public Health, Food Chain Safety and Environment",
+    "downloadURL": "https://github.com/healthfacts/distributions_fpshealth_mhd_icd/blob/main/fpshealth_mhd_icd_district_2020_fr.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_fpshealth_mhd_icd/blob/main/fpshealth_mhd_icd_district_2020_fr.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 6472730,
+    "modificationDate": "2023-11-22 16:51:19",
+    "status": "completed",
+    "language": "fr",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://www.health.belgium.be/nl/mzg-publicaties-Prevalentie-van-ziektebeelden-in-een-ziekenhuis; https://www.health.belgium.be/fr/rhm-publications-Prevalence-des-tableaux-cliniques-en-milieu-hospitalier",
+    "keyword": [],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "0d1bfbc1-bc7e-4722-b40b-e2d0de6414d7",
+        "title": "Prevalence of medical diagnoses in a hospital: the number of hospital stays per ICD (International Classification of diseases) diagnosis",
+        "landingPage": "https://www.health.belgium.be/nl/mzg-publicaties-Prevalentie-van-ziektebeelden-in-een-ziekenhuis; https://www.health.belgium.be/fr/rhm-publications-Prevalence-des-tableaux-cliniques-en-milieu-hospitalier",
+        "contactPoint": "FPS Public Health, Food Chain Safety and Environment, Directorate General of Healthcare, Data and Policy Information Service, Galileelaan 5/01, 1210 Brussels, Belgium",
+        "contactPointEmail": "adhoc_admDM@health.fgov.be"
+    }
+}
