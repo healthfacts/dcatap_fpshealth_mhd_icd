@@ -9,18 +9,18 @@
     "mediaType": "text/csv",
     "format": "csv",
     "byteSize": 4018024,
-    "modificationDate": "2023-11-22 16:50:43",
+    "modificationDate": "2023-11-30 12:26:26",
     "status": "completed",
     "language": "nl",
     "availability": "stable",
     "license": "CC_BY_4_0",
-    "documentation": "https://www.health.belgium.be/nl/mzg-publicaties-Prevalentie-van-ziektebeelden-in-een-ziekenhuis; https://www.health.belgium.be/fr/rhm-publications-Prevalence-des-tableaux-cliniques-en-milieu-hospitalier",
+    "documentation": "https://www.health.belgium.be/en/node/36322",
     "keyword": [],
     "dataset": {
         "@type": "dataset",
         "identifier": "0d1bfbc1-bc7e-4722-b40b-e2d0de6414d7",
-        "title": "Prevalence of medical diagnoses in a hospital: the number of hospital stays per ICD (International Classification of diseases) diagnosis",
-        "landingPage": "https://www.health.belgium.be/nl/mzg-publicaties-Prevalentie-van-ziektebeelden-in-een-ziekenhuis; https://www.health.belgium.be/fr/rhm-publications-Prevalence-des-tableaux-cliniques-en-milieu-hospitalier",
+        "title": "Prevalence of medical diagnoses in Belgian hospitals: the number of hospital stays per ICD (International Classification of diseases) diagnosis",
+        "landingPage": "https://www.health.belgium.be/en/node/36322",
         "contactPoint": "FPS Public Health, Food Chain Safety and Environment, Directorate General of Healthcare, Data and Policy Information Service, Galileelaan 5/01, 1210 Brussels, Belgium",
         "contactPointEmail": "adhoc_admDM@health.fgov.be"
     }
